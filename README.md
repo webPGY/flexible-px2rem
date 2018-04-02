@@ -1,8 +1,8 @@
 # vue2
 
 #index.html head 配置
-<meta content="yes" name="apple-mobile-web-app-capable">
-<meta content="yes" name="apple-touch-fullscreen">
+# name="apple-mobile-web-app-capable"，content="yes"的meta标签
+# name="apple-touch-fullscreen"，content="yes"的meta标签
 <script src="http://g.tbcdn.cn/mtb/lib-flexible/0.3.4/??flexible_css.js,flexible.js"></script> 
 taobao移动端适配方案，原理是根据不同的屏幕比例动态给html设置字体大小，设置属性dpr,以及
 scale,根据不同屏幕尺寸动态创建不同的适口标签和缩放比例，达到适配效果
